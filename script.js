@@ -31,7 +31,7 @@ try {
             }
 
             if (sec <= 0) {
-                sec = 60;
+                sec = 59;
                 min--;
 
                 if (min == 0) min = '';
@@ -68,7 +68,7 @@ try {
             }
 
             if (sec <= 0) {
-                sec = 60;
+                sec = 59;
                 min--;
 
                 if (min == 0) min = '';
