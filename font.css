@@ -1,0 +1,8 @@
+@import url("font.ttf");
+@import url("font.woff2");
+
+@font-face {
+    font-family: 'ClockFont';
+    src: url('./font.woff2') format('woff2'), /* Modern Browsers */
+         url('./font.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
